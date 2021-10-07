@@ -1,0 +1,27 @@
+{
+  "name": "rajputusman",
+  "version": "1.3.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "rajputusman": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajputUsman/npm-rajputusman"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rajput Usman",
+    "Usman Khalid",
+    "business card",
+    "rajputusman"
+  ],
+  "author": "RajputUsman",
+  "license": "ISC",
+  "dependencies": {
+    "colorette": "^2.0.14"
+  }
+}
